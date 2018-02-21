@@ -1,3 +1,9 @@
+libjs-extjs (6.2.0-1) unstable; urgency=medium
+
+  * update to 6.2.0
+
+ -- Proxmox Support Team <support@proxmox.com>  Tue, 13 Feb 2018 09:35:00 +0100
+
 libjs-extjs (6.0.1-2) unstable; urgency=medium
 
   * bump version for debian stretch (to make room for jessie updates)

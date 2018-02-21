@@ -1,6 +1,6 @@
 PACKAGE=libjs-extjs
-PKGVER=6.0.1
-PKGREL=2
+PKGVER=6.2.0
+PKGREL=1
 
 DEB=${PACKAGE}_${PKGVER}-${PKGREL}_all.deb
 
